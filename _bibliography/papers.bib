@@ -13,6 +13,19 @@
     selected = {true},
 }
 
+@inproceedings{cptr,
+	abbr = {cptr},
+	title={CPTR: Full Transformer Network for Image Captioning}, 
+	author={Wei Liu and Sihan Chen and Longteng Guo and Xinxin Zhu and Jing Liu},
+	year={2021},
+	booktitle = {arxiv},
+	abstract = {In this paper, we consider the image captioning task from a new sequence-to-sequence prediction perspective and propose Caption TransformeR (CPTR) which takes the sequentialized raw images as the input to Transformer. Compared to the "CNN+Transformer" design paradigm, our model can model global context at every encoder layer from the beginning and is totally convolution-free. Extensive experiments demonstrate the effectiveness of the proposed model and we surpass the conventional "CNN+Transformer" methods on the MSCOCO dataset. Besides, we provide detailed visualizations of the self-attention between patches in the encoder and the "words-to-patches" attention in the decoder thanks to the full Transformer architecture.},
+	pdf = {https://arxiv.org/pdf/2101.10804.pdf},
+    note = {(Under Review)},
+    selected = {true},
+}
+}
+
 @inproceedings{autocap,
     abbr = {autocap},
     title={AutoCaption: Image Captioning with Neural Architecture Search}, 
@@ -21,6 +34,7 @@
     booktitle = {arxiv},
     abstract = {Image captioning transforms complex visual information into abstract natural language for representation, which can help computers understanding the world quickly. However, due to the complexity of the real environment, it needs to identify key objects and realize their connections, and further generate natural language. The whole process involves a visual understanding module and a language generation module, which brings more challenges to the design of deep neural networks than other tasks. Neural Architecture Search (NAS) has shown its important role in a variety of image recognition tasks. Besides, RNN plays an essential role in the image captioning task. We introduce a AutoCaption method to better design the decoder module of the image captioning where we use the NAS to design the decoder module called AutoRNN automatically. We use the reinforcement learning method based on shared parameters for automatic design the AutoRNN efficiently. The search space of the AutoCaption includes connections between the layers and the operations in layers both, and it can make AutoRNN express more architectures. In particular, RNN is equivalent to a subset of our search space. Experiments on the MSCOCO datasets show that our AutoCaption model can achieve better performance than traditional hand-design methods. Our AutoCaption obtains the best published CIDEr performance of 135.8% on COCO Karpathy test split. When further using ensemble technology, CIDEr is boosted up to 139.5%.},
     pdf = {https://arxiv.org/pdf/2012.09742},
+    note = {(Under Review)},
     selected = {true},
 }
 
