@@ -1,8 +1,14 @@
-Adams:
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-Podolsky:
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-Rosen:
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+# Adams:
+#     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+Liu:
+  - firstname: ["Jing"]
+    url: http://www.nlpr.ia.ac.cn/iva/liujing/
+Lu:
+  - firstname: ["Hanqing"]
+    url: http://www.nlpr.ia.ac.cn/iva/luhanqing20150604/index.html
+Jiang:
+  - firstname: ["Jie"]
+    url: https://scholar.google.com/citations?user=dwCuzo0AAAAJ
+Tang:
+  - firstname: ["Jinhui"]
+    url: https://scholar.google.com/citations?user=ByBLlEwAAAAJ

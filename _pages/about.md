@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. 
+description: Ph.D. Candidate | Computer Vision
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+awards: true # includes a list of award items
+social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. student at <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Miller Group</a>, <a href="https://cce.caltech.edu/">Caltech CCE</a>. I work on developing physics-based geometric learning approaches to tackle complex problems in chemistry and biology, especially for molecular electronic structure and dynamics.
+I am a Ph.D. student at [National Laboratory of Pattern Recognition, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by Prof. Jing Liu and Prof. Hanqing Lu. I mainly research on computer vision, including vision & language, image retrieval, and semantic segmentation. 
 
-Before starting graduate study, I earned my BSc from Peking University in 2019. As an undergraduate student I worked in <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied statistical mechanics of strongly-confined soft matters. 
+Before starting graduate study, I earned my B.Eng and B.Econ from [Xi'an Jiaotong University](http://www.xjtu.edu.cn/) in 2016. 
 
-Please feel free to contact me through <a href="mailto:zqiao@caltech.edu">email</a> if you have any questions. 
 
 {% comment %} 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
